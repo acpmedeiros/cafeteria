@@ -5,6 +5,10 @@
 	box-sizing: border-box;
 }
 
+html { 
+ scroll-behavior: smooth; 
+ }
+
 .container-parallax1,
 .container-parallax2,
 .container-parallax3,
